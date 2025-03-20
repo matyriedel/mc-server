@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.21.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741181235475
+  login: 1741109811849
+money: '0'
+last-account-name: Kamusx_
+logoutlocation:
+  world: 8a618d02-8e00-4e2c-a6e2-735084a932ab
+  world-name: world
+  x: 7.076908463545346
+  y: 89.73994794604593
+  z: 6.269117740719083
+  yaw: -121.80004119873047
+  pitch: 31.350008010864258
