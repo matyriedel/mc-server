@@ -15,3 +15,9 @@ MythicMobs → Zombies mejorados, criaturas mutantes.
 McMMO → Sistema de habilidades tipo RPG.
 WorldBorder → Limita el mapa para forzar encuentros entre jugadores.
 EssentialsX → Comandos básicos como /spawn, /sethome, /warp.
+
+
+---------------------------------
+COMANDOS
+---------------------------------
+
