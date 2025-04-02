@@ -3,7 +3,7 @@ version: '3.8'
 services:
   minecraft:
     image: itzg/minecraft-server
-    container_name: jacaranda-mc
+    container_name: mc-server
     restart: unless-stopped
     ports:
       - "25565:25565"
@@ -13,7 +13,7 @@ services:
       MEMORY: "4G"
       ONLINE_MODE: "FALSE"  # Permite jugadores sin cuenta de Mojang (necesario para AuthMe)
       ENABLE_RCON: "true"
-      RCON_PASSWORD: "t2V%UvaXpT17re@}}CA$DfF)"
+      RCON_PASSWORD: "THESECUREPASSWORD"
       SERVER_NAME: "SurvivalDayZ"
     volumes:
       - ./data:/data  # Guarda todos los archivos del servidor
